@@ -1,0 +1,33 @@
+table,thead,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+.content{
+    margin-top: 2rem;
+    margin-bottom:5rem;
+    border-style: solid;
+    border: 2%;
+    padding:2rem;
+}
+
+h1{
+    margin-top: 8rem;
+}
+
+#search{
+    float: left;
+}
+
+#add{
+    width: 30%;
+    float: right;
+}
+
+.col_left{
+    float: left;
+}
+
+.col_right{
+    float: right;
+}
